@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Runtime media storage
+app/static/storage/img/*
+!app/static/storage/img/.gitkeep
+app/static/storage/invoices/*
+!app/static/storage/invoices/.gitkeep
+app/static/data/*
+!app/static/data/.gitkeep

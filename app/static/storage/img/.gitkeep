@@ -1,0 +1,2 @@
+# This directory stores user-uploaded apartment images at runtime.
+# Do not commit user-uploaded images here; use data/demo/assets/ for initial seed assets.
